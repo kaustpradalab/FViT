@@ -24,3 +24,13 @@ Our code implementation is based on the following awesome material:
 3. https://arxiv.org/abs/2005.00928
 4. https://github.com/hila-chefer/Transformer-Explainability
 5. https://github.com/openai/guided-diffusion
+
+## Citation
+
+All rights belongs to the authors, suggest cite:
+
+@inproceedings{huimproving,
+  title={Improving Interpretation Faithfulness for Vision Transformers},
+  author={Hu, Lijie and Liu, Yixin and Liu, Ninghao and Huai, Mengdi and Sun, Lichao and Wang, Di},
+  booktitle={Forty-first International Conference on Machine Learning}
+}
