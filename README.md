@@ -30,7 +30,10 @@ Our code implementation is based on the following awesome material:
 All rights belongs to the authors, suggest cite:
 
 @inproceedings{huimproving,
+
   title={Improving Interpretation Faithfulness for Vision Transformers},
+  
   author={Hu, Lijie and Liu, Yixin and Liu, Ninghao and Huai, Mengdi and Sun, Lichao and Wang, Di},
+  
   booktitle={Forty-first International Conference on Machine Learning}
 }
